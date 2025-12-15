@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @montoya117
-- 👀 I’m interested in learning about all programing languages in order to understand a bit better this new world we live in... low level programing specially...
-- 🌱 I’m a Junior Web Developer, with a solid foundation in full stack programming, I currently have experience with
+- 👀 I’m studying C and C++ but I love learning about all programing languages in order to understand a bit better this new world we live in...
+- 🌱 I’m also a Junior Web Developer, with a solid foundation in full stack programming, I currently have experience with
 -  HTML, CSS, JAVASCRIPT, BOOTSTRAP and REACT for the front-end.
 - JAVA for the back-end with SpringBoot as Framework majorly.
 - MYSQL for Data Base.
