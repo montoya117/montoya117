@@ -1,29 +1,33 @@
-Hi there, I'm Alex (Alejandro) 👋
-I'm a software engineering student at 42 Barcelona, currently deep-diving into systems programming, low-level architecture, and networking. Before shifting gears into code, I spent years managing hospitality operations and building event infrastructure—experiences that taught me how to stay cool under pressure, solve problems on the fly, and lead teams.
+### Hi there, I'm Alex (Alejandro) 👋
 
-Now, I channel that problem-solving mindset into breaking down how computers, memory, and networks actually work under the hood.
+I'm a software engineering student at **42 Barcelona**, I like to understand how things work right down to the metal. My primary focus is on **low-level systems programming, network architecture, and cybersecurity**. 
 
-💻 What I'm Working On
-Systems & Low-Level: Writing robust C and C++ (from custom command-line shells to HTTP/1.1 web servers and graphics raycasters).
+Before diving full-time into code, I spent years managing operations in international hospitality and building large-scale event infrastructure. That background gave me a high-pressure, problem-solving mindset—which now translates directly into tracing network packets, hunting memory leaks, and engineering robust software from scratch.
 
-Infrastructure & Concurrency: Working with sockets, process synchronization, Docker, and Linux environments.
+---
 
-Embedded & Hardware: Tinkering with microcontrollers (Arduino, ESP32) and low-level C register manipulation.
+### ⚡ What Drives Me
+* **Low-Level Architecture:** Writing efficient, high-performance **C and C++**—building everything from custom command-line shells and non-blocking HTTP/1.1 web servers to 3D raycasting engines.
+* **Networking & Connectivity:** Fascinated by socket programming, TCP/IP mechanisms, and how data moves across networks. I am actively steering my path toward mastering network infrastructure and preparing for the **CCNA**.
+* **Cybersecurity & Offensive Security:** Aligning my 42 outer-core specializations toward security, systems hardening, and practical labs (building towards certifications like OSCP). 
 
-🛠️ My Toolbox
-Languages: C, C++, Bash, JavaScript / TypeScript (from my earlier full-stack days).
+---
 
-Systems & Tools: Linux, Git, Docker, Makefiles, iTerm2, VS Code / Cursor.
+### 🛠️ The Toolkit
+* **Languages:** C, C++, Bash, Java, JavaScript, 
+* **Systems & Environments:** Linux (kernel mechanisms, process management, and terminal tooling), Docker, Makefiles, Git.
+* **Hardware & Lab:** Raspberry Pi, ESP32, wireless adapters, and embedded C register manipulation.
 
-Hardware & Networking: Raspberry Pi, ESP32, basic wireless/network analysis tools.
+---
 
-🎧 Beyond the Code
-When I'm not hunting down memory leaks or debugging segmentation faults, you can usually find me crate-digging, spinning vinyl records, or collaborating with VinyaGroup (an underground electronic music collective I'm part of in Barcelona).
+### 🎧 Beyond the Terminal
+When I'm not staring at a C++ compiler error or analyzing traffic, you'll usually find me crate-digging, spinning records as a vinyl DJ, or organizing underground electronic music events with **VinyaGroup** in Barcelona.
 
-📫 Let's Connect
-Email: alexmon117@gmail.com
+---
 
-GitHub: @montoya117
+### 📫 Let's Connect
+* **Email:** alexmon117@gmail.com
+* **GitHub:** [@montoya117](https://github.com/montoya117)
 
 <!---
 montoya117/montoya117 is a ✨ special ✨ repository... 
